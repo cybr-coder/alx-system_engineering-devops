@@ -1,1 +1,1 @@
-This bash script prints the absolute path of the current working directory
+These are various bash scripts which are supposed to be run in a terminal
