@@ -1,1 +1,1 @@
-Basic bash shell scripts
+Bash shell scripts
